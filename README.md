@@ -1,3 +1,5 @@
+[The goal of this fork is to build API calls to get frame metadata informations]
+
 The light-weight Flash video player that makes Flash work like HTML5 video. This allows player skins, plugins, and other features to work with both HTML5 and Flash
 
 This project doesn't need to be used if you simply want to use the Flash video player.  Head back to the main Video.js project if that's all you need, as the compiled SWF is checked in there.
